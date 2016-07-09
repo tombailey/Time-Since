@@ -1,6 +1,6 @@
 {
   "name": "time-since",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Convert timestamps to meaningful seconds, minutes, hours, days and weeks.",
   "main": "lib.js",
   "author": {
