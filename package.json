@@ -1,8 +1,21 @@
 {
-  "name": "Time Since",
+  "name": "time-since",
   "version": "1.0.0",
   "description": "Convert timestamps to meaningful seconds, minutes, hours, days and weeks.",
   "main": "lib.js",
-  "author": "TomBailey",
-  "license": "Apache-2.0"
+  "author": {
+    "name": "TomBailey",
+    "email": "inbox@tombailey.me"
+  },
+  "dependencies": {},
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tombailey/Time-Since.git"
+  },
+  "keywords": [
+    "time",
+    "since",
+    "timestamp"
+  ]
 }
