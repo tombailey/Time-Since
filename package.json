@@ -17,5 +17,6 @@
     "time",
     "since",
     "timestamp"
-  ]
+  ],
+  "readmeFilename": "README.md"
 }
