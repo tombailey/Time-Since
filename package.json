@@ -18,5 +18,6 @@
     "since",
     "timestamp"
   ],
+  "readme": "**Introduction**\n\nThis is a Node.js based module to convert timestamps to meaningful seconds, minutes, hours, days and weeks.\n\n**Dependencies**\n\nNone.**Examples**'npm install time-since' then\n\nvar time = require('time-since');\n\nvar epoch = new Date(0);\nconsole.log('ms: ' + time.since(epoch).millis());\nconsole.log('s: ' + time.since(epoch).secs());\nconsole.log('m: ' + time.since(epoch).mins());\nconsole.log('h: ' + time.since(epoch).hours());\nconsole.log('d: ' + time.since(epoch).days());\nconsole.log('w: ' + time.since(epoch).weeks());\n\n**License**\n\nApache 2 (go mad)",
   "readmeFilename": "README.md"
 }
